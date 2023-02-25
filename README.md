@@ -5,7 +5,7 @@ Assignments and Projects for Scientific Computing with Python Certification thro
 <li> <a href = "https://www.py4e.com/"> PY4E (Official Site) </a> </li>
 </ul>
 <h1> Assignments </h2>
-There is a branch in this repo that shows the source code of my completed course assignments. I completed these and met the required criteria based on my learning and analysis, and there are several correct ways to solve these problems. You can find them in the Assignments tab of the PY4E site.
+There is a folder in this repo that shows the source code of my completed course assignments. I completed these and met the required criteria based on my learning and analysis, and there are several correct ways to solve these problems. You can find them in the Assignments tab of the PY4E site.
 These assignments demonstrate my understanding and application of Python concepts like dictionaries, functions, list, iterations, etc. 
 <h1>Projects</h1>
 These assignments were completed based on provided source code on Replitt from FreeCodeCamp. I will copy the source code of my solutions and attach below the Replitt links I submitted for certification
